@@ -20,7 +20,7 @@ public class Ing_sw_2019 {
         // TODO code application logic here
         Scanner leer = new Scanner(System.in);
         int n, f=0,t1=1,t2;
-        Sytem.out.print("¿cuantos numeros desea generar?");
+        System.out.print("¿cuantos numeros desea generar?");
         n=leer.nextInt();
         for(int i=1;i<=n;i++){
             t2=f;
