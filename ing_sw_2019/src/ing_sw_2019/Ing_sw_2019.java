@@ -17,6 +17,7 @@ public class Ing_sw_2019 {
     public static void main(String[] args) {
         // TODO code application logic here
         println("hola");
+        System.out.println.("Revisión Mauricio Rojas C.");
     }
     
 }
